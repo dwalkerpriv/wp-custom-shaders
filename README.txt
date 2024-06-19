@@ -1,13 +1,10 @@
-=== Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
-Donate link: https://dezhimself.com/
-Tags: comments, spam
+Wordpress Custom Shaders
+Contributors: (dwpriv)
+Tags: glsl, shaders, css
 Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 4.3
+Tested up to: 6.5.4
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Inserts a GLSL shader into web pages using a shortcode. Works well with hero sections. You'll need to use CSS for custom fits/layouts.
-
-`<?php code(); // goes in backticks ?>`
