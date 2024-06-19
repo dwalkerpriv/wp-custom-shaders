@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+#wp_custom_shader_app,
+.wp-custom-shaders-container {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+#wp-custom-shaders-canvas {
+    width: 100%;
+    height: 100%;
+}
